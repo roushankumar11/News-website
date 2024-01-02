@@ -1,7 +1,6 @@
-
 const container = document.querySelector(".container");
 const optionsContainer = document.querySelector(".options-container");
-
+let apiKey = "d04face842ba4b71b5535fb81b55f260";
 const country = "in";
 const options = [
   "general",
